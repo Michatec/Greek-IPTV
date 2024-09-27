@@ -1,3 +1,5 @@
-# Greek-Radio
+# Greek-IPTV
 
-A m3u8 file with Many Greek Radio Stations.
+Two m3u one with Greek Radios and one with Greek TV.
+
+Greek TV m3u recommend to use with VPN.
