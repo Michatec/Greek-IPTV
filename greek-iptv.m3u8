@@ -219,7 +219,7 @@ https://eu1.vectromdigital.com:1936/bcifood/bcifood/playlist.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",CYPRUS TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://cypruslivetv.cy/cmsMedia/Uploads/Logos/CyprusTV.png",CYPRUS TV
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="plp" tvg-logo="https://i.imgur.com/iN9EG4c.png",PLP
 https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
