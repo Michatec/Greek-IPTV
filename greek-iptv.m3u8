@@ -22,7 +22,7 @@ http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlis
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/caWensC.png",BCI CINEMA
 https://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/wzk4Y0T.png",BCI GREEK
