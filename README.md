@@ -32,11 +32,13 @@ There’s no guarantee that all the stations are working.
 
 <details>
 <summary>📜️ Credit</summary>
-  
+	
 - Michatec for maintaining the lists
 - All the contributors who have contributed to the project by submitting pull requests, reporting issues, or providing feedback
 
 </details>
+
+----------------------------------------
 
 <div align="right">
 <table><td>
