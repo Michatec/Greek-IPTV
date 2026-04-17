@@ -38,8 +38,6 @@ There’s no guarantee that all the stations are working.
 
 </details>
 
-----------------------------------------
-
 <div align="right">
 <table><td>
 <a href="#start-of-content">↥ Scroll to top</a>
