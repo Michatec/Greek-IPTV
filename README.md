@@ -38,6 +38,10 @@ There’s no guarantee that all the stations are working.
 
 </details>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=michatec/greek-iptv&type=date&legend=top-left)](https://www.star-history.com/?repos=michatec%2Fgreek-iptv&type=date&legend=top-left)
+
 <div align="right">
 <table><td>
 <a href="#start-of-content">↥ Scroll to top</a>
