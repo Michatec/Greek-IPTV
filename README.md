@@ -40,7 +40,13 @@ There’s no guarantee that all the stations are working.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=michatec/greek-iptv&type=date&legend=top-left)](https://www.star-history.com/?repos=michatec%2Fgreek-iptv&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=Michatec%2FGreek-IPTV&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Michatec/Greek-IPTV&type=date&theme=dark&legend=top-left&sealed_token=jAgG7THXPxHNaDYV0QVBKHM29O9i4TD6ZNEw9ToMHGRws0vnkuzyXnLZVKxla1JgGKhyciJw-tDTR4IuYTqNPiMGqRXqRm5hU1clB3bBTDHZXKLdGHnnfsm21h9rj10JdtoJ0Dpabs62B_bInSpcFFYFSu6wIze1P5BkHwBpJUEA3Toj8Mhpwkg3MmA3" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Michatec/Greek-IPTV&type=date&legend=top-left&sealed_token=jAgG7THXPxHNaDYV0QVBKHM29O9i4TD6ZNEw9ToMHGRws0vnkuzyXnLZVKxla1JgGKhyciJw-tDTR4IuYTqNPiMGqRXqRm5hU1clB3bBTDHZXKLdGHnnfsm21h9rj10JdtoJ0Dpabs62B_bInSpcFFYFSu6wIze1P5BkHwBpJUEA3Toj8Mhpwkg3MmA3" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Michatec/Greek-IPTV&type=date&legend=top-left&sealed_token=jAgG7THXPxHNaDYV0QVBKHM29O9i4TD6ZNEw9ToMHGRws0vnkuzyXnLZVKxla1JgGKhyciJw-tDTR4IuYTqNPiMGqRXqRm5hU1clB3bBTDHZXKLdGHnnfsm21h9rj10JdtoJ0Dpabs62B_bInSpcFFYFSu6wIze1P5BkHwBpJUEA3Toj8Mhpwkg3MmA3" />
+ </picture>
+</a>
 
 <div align="right">
 <table><td>
